@@ -1,8 +1,12 @@
 import React from 'react'
+import { Header } from '../..'
+
 
 const HomeLayout = () => {
   return (
-    <div>HomeLayout</div>
+    <div>
+        <Header/>
+    </div>
   )
 }
 
